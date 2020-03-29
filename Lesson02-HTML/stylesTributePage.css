@@ -1,0 +1,57 @@
+<!-- html {
+    background-color:#eeeeee;
+    font-family: Open Sans;
+}
+
+#main {
+    text-align: center
+} 
+
+#img-div {
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 55%;
+    width: 65%;
+}
+
+#image {
+    border-radius: 50%;
+    width: 300px;
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+#img-caption {
+    border-radius: 50%;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+li{
+    margin: 10px 0;
+  }
+  
+
+#timeline-content {
+    background-color: #eeeeee;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* height: 30%; */
+    width: 55%;
+    text-align: left;
+}
+
+#quote {
+    margin-top: 20px;
+}
+
+-->
